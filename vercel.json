@@ -11,6 +11,9 @@
         "src": "/(.*)",
         "dest": "main.py"
       }
-    ]
+    ],
+    "env": {
+    "MONGODB_URI": "@mongodb_uri"
+    }
   }
   
