@@ -3,3 +3,4 @@ motor
 pydantic
 Flask
 uvicorn
+pymongo
